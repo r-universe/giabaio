@@ -1,9 +1,5 @@
 [
   {
-    "package": "BCEA",
-    "oncran": true
-  },
-  {
     "package": "survHE",
     "oncran": true
   }
