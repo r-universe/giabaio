@@ -1,7 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/giabaio/giabaio.r-universe.dev
 	branch = HEAD
-[submodule "survHE"]
-	path = survHE
-	url = https://github.com/giabaio/survhe
+[submodule "SWSamp"]
+	path = SWSamp
+	url = https://github.com/giabaio/SWSamp
+[submodule "bmhe"]
+	path = bmhe
+	url = https://github.com/giabaio/bmhe_utils
+[submodule "survHEhmc"]
+	path = survHEhmc
+	url = https://github.com/giabaio/survHEhmc
+[submodule "survHEinla"]
+	path = survHEinla
+	url = https://github.com/giabaio/survHEinla
