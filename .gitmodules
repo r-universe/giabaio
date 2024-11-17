@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/giabaio/giabaio.r-universe.dev
 	branch = HEAD
+[submodule "BCEAweb"]
+	path = BCEAweb
+	url = https://github.com/giabaio/BCEAweb
 [submodule "SWSamp"]
 	path = SWSamp
 	url = https://github.com/giabaio/SWSamp
