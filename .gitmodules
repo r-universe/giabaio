@@ -14,6 +14,9 @@
 [submodule "bmhe"]
 	path = bmhe
 	url = https://github.com/giabaio/bmhe_utils
+[submodule "survHE"]
+	path = survHE
+	url = https://github.com/giabaio/survHE
 [submodule "survHEhmc"]
 	path = survHEhmc
 	url = https://github.com/giabaio/survHEhmc
